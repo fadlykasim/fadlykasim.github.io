@@ -4,69 +4,69 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Halo, Saya Fadly Kasim
+# Hi, I'm Fadly Kasim
 
-Saya security researcher independen dari Manado ke Makassar, Sulawesi Selatan.
+I'm an independent security researcher from Manado, now based in Makassar, South Sulawesi.
 
-Bukan dari Jakarta. Bukan dari perusahaan keamanan besar.  
-Bukan lulusan universitas luar negeri.  
-Bekerja sebagai #opisboy Flash Informatika Cemerlang.
+Not from Jakarta. Not from a big security firm.  
+Not a graduate of any foreign university.  
+Working as an #opisboy at Flash Informatika Cemerlang.
 
-Dari Manado — Makassar — dengan MacBook dan koneksi internet.
-
----
-
-## Apa yang Saya Lakukan
-
-Saya menghabiskan waktu membaca source code, mencari bug,
-dan melaporkannya secara responsible ke vendor.
-
-Dalam beberapa bulan terakhir, saya fokus mengaudit
-**Private Cloud Compute (PCC)** — infrastruktur
-cloud yang menjalankan AI Intelligence.
-
-Perusahaan besar mempublish source code secara terbuka di GitHub
-dan mengundang researcher untuk mencari bug.
-
-Saya menerima undangan itu.
+From Manado — to Makassar — with a MacBook and an internet connection.
 
 ---
 
-## Status Saat Ini
+## What I Do
 
-Saya sedang dalam proses responsible disclosure dengan
-Security Research untuk beberapa temuan di Private Cloud Compute.
+I spend my time reading source code, looking for bugs,
+and reporting them responsibly to vendors.
 
-Mereka telah mengkonfirmasi reproduksi salah satu temuan saya.
+In the past few months, I've been focused on auditing
+**Private Cloud Compute (PCC)** — the infrastructure
+that runs AI Intelligence in the cloud.
 
-Detail teknis akan dipublish setelah patch dirilis
-dan CVE di-assign — sesuai dengan etika responsible disclosure.
+A big company published its source code openly on GitHub
+and invited researchers to find bugs.
 
----
-
-## Mengapa Saya Menulis Ini
-
-Komunitas security Indonesia sangat talented tapi
-masih kurang terwakili di bug bounty program besar.
-
-Saya ingin menunjukkan bahwa:
-
-- Geography bukan hambatan
-- Source code publik adalah sumber terbaik
-- Independent researcher bisa compete dengan tim besar
-
-Ketika disclosure selesai, saya akan publish full writeup
-di blog ini — teknis, metodologi, dan perjalanannya.
+I accepted the invitation.
 
 ---
 
-## Tetap Terhubung
+## Current Status
+
+I'm currently in the responsible disclosure process with
+Security Research for several findings in Private Cloud Compute.
+
+They have confirmed the reproduction of one of my findings.
+
+Technical details will be published once the patch is released
+and the CVE is assigned — following responsible disclosure ethics.
+
+---
+
+## Why I'm Writing This
+
+The Indonesian security community is incredibly talented,
+yet still underrepresented in major bug bounty programs.
+
+I want to show that:
+
+- Geography is not a barrier
+- Public source code is the best resource
+- Independent researchers can compete with large teams
+
+Once the disclosure is complete, I'll publish the full write-up
+here — the technical details, methodology, and the journey.
+
+---
+
+## Stay Connected
 
 Blog: [fadlykasim.github.io](https://fadlykasim.github.io)  
 Email: fadly.kasim@gmail.com  
 GitHub: [@fadlykasim](https://github.com/fadlykasim)
 
-Full writeup coming soon.
+Full write-up coming soon.
 
 — Fadly Kasim  
-Makassar, Juni 2026
+Makassar, June 2026
