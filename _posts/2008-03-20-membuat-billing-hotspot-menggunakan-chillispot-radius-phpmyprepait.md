@@ -7,7 +7,6 @@ tags: [wordpress, imported]
 original_url: https://firstly.wordpress.com/2008/03/20/membuat-billing-hotspot-menggunakan-chillispot-radius-phpmyprepait/
 ---
 
-{% raw %}
 > Tulisan ini di-import dari [blog WordPress saya yang lama](https://firstly.wordpress.com/2008/03/20/membuat-billing-hotspot-menggunakan-chillispot-radius-phpmyprepait/), ditulis pada 2008-03-20.
 
 Perpaduan Chillispot, Freeradius dan Mysql dapat menghasilkan aplikasi Hotspot lumayan handal. Chillispot sebagai Authentifikasi, Freeradius untuk account phpmyprepait sebagai billingnya dan Mysql untuk databasenya.
