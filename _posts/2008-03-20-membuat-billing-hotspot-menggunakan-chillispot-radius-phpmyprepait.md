@@ -146,4 +146,4 @@ Komputer P 4
 Instalasi OS Linux OpenSUSE 10.2
 
 Instalasi
-{% endraw %}
+
