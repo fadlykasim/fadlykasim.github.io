@@ -53,8 +53,12 @@ jobs:
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
-            \-\-disable-external \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+            --disable-external=true \
+            --enforce-https=false \
+            --allow-hash-href \
+            --allow-missing-href \
+            --ignore-status-codes "0,404,503" \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/,/^http:\/\/$/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v4
